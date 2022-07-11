@@ -16,7 +16,7 @@ Calculator.sum(2, 3, 4, 5).subtract(1).result
 class Calculator
 
   def initialise()
-    @@sum_T = 0
+    @sum_T=0
     
   end
 
